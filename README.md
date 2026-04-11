@@ -281,17 +281,6 @@ See the [LICENSE](LICENSE) file for full details.
 
 <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/45123f007c79aa8d0c8d9b11b3ff72d6bf4744c7/Assets/Star%20Light%20Line.gif" width="100%">
 
-## Stargazers
-
-<img src="https://reporoster.com/stars/dark/janavipandole/Foodie"/>
-
-<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/45123f007c79aa8d0c8d9b11b3ff72d6bf4744c7/Assets/Star%20Light%20Line.gif" width="100%">
-
-## Forkers
-
-<img src="https://reporoster.com/forks/dark/janavipandole/Foodie"/>
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient"/>
 
 
