@@ -3,6 +3,8 @@
 
 ### 🍽️ **Foodie — Responsive Food Delivery Website**
 
+![NSoC 2026](https://img.shields.io/badge/NSoC-2026-purple)
+![Project Kernel](https://img.shields.io/badge/Role-Project%20Kernel-success)
 [![Hacktoberfest 2025](https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?style=for-the-badge&logo=github)](https://hacktoberfest.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Stars](https://img.shields.io/github/stars/janavipandole/Hacktoberfest2025-Foodie?style=for-the-badge)](https://github.com/janavipandole/Hacktoberfest2025-Foodie/stargazers)
@@ -240,9 +242,6 @@ Whether it’s bug fixes, new features, or improving documentation — every con
 📘 For more details, see the [CONTRIBUTING.md](./CONTRIBUTING.md) file.
 
 <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif" width="100%" />
-
-![NSoC 2026](https://img.shields.io/badge/NSoC-2026-purple)
-![Project Kernel](https://img.shields.io/badge/Role-Project%20Kernel-success)
 
 ## 🏆 NSoC 2026 Project Selection
 
