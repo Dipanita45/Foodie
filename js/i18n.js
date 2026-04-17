@@ -53,6 +53,14 @@ class I18n {
                 }
             }
 
+            this.translations = await response.json();
+
+            if (lang !== "en" && Object.keys(this.fallbackTranslations).length === 0) {
+                const fallbackResponse = await fetch(`${basePath}en.json`);
+                if (fallbackResponse.ok) {
+                    this.fallbackTranslations = await fallbackResponse.json();
+                }
+            }
         } catch (err) {
             errorLogger.log(err, { operation: 'loadTranslations', lang });
 
